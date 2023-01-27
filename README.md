@@ -13,7 +13,7 @@ Currently learning web development aiming to be a full-stack developer. As an En
 </div>
 
 ### Status
-<div>
+<div display="display:inline-block">
   <a href="https://https://github.com/brunoF-Silva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoF-Silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoF-Silva&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -22,6 +22,7 @@ Currently learning web development aiming to be a full-stack developer. As an En
 ---
   
 ### Languages and Tools
+  
 <img align="left" alt="Git" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -29,7 +30,7 @@ Currently learning web development aiming to be a full-stack developer. As an En
 <img align="left" alt="React" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="center" alt="C" height="26px" width="40" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+<img align="left" alt="C" height="26px" width="40" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 <img align="left" alt="GitHub" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
