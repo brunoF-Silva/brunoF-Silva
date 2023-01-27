@@ -18,7 +18,9 @@ Currently learning web development aiming to be a full-stack developer. As an En
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=brunoF-Silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoF-Silva&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  
 ---
+  
 ### Languages and Tools
 <img align="left" alt="Git" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
