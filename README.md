@@ -2,7 +2,7 @@
 
 **`Developer in Training`**
 
-Currently learning web development aiming to be a full-stack programmer, coding is a important part of my life since i was 12. My curiosity an also my passion for the english languge drove me through a path that I'm for sure in love: Im almolt getting my degree in Computer Science at UFT.
+Currently learning web development aiming to be a full-stack programmer, coding is an important part of my life since I was 12. My curiosity and also my passion for the english language drove me through a path that I'm for sure in love: Im almolt getting my degree in Computer Science at UFT.
 
 <div> 
   <a href="https://www.youtube.com/channel/UCh4tlLazcVXpLG9l0yhmK9w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -10,6 +10,7 @@ Currently learning web development aiming to be a full-stack programmer, coding 
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:dev.silva.bruno@mail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-ferreira-da-silva-9629b6263" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 
    <p align="left">
@@ -22,8 +23,9 @@ Currently learning web development aiming to be a full-stack programmer, coding 
 ### Status
 ![brunoF-Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoF-Silva&show_icons=true&theme=tokyonight)[](url)
   
-   ### 🧰 Languages and Tools
 ---
+  
+### 🧰 Languages and Tools
 <img align="left" alt="Git" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
