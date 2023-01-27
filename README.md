@@ -2,7 +2,7 @@
 
 **`Developer in Training`**
 
-Currently learning web development aiming to be a full-stack developer. As an english language lover, my decisions drove me through the Tech and I'm almost majoring in Computer Science.
+Currently learning web development aiming to be a full-stack developer. As an English language lover, my decisions drove me through the Tech path and I'm almost majoring in Computer Science.
 
 <div> 
   <a href="https://www.youtube.com/channel/UCh4tlLazcVXpLG9l0yhmK9w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -11,14 +11,6 @@ Currently learning web development aiming to be a full-stack developer. As an en
   <a href = "mailto:dev.silva.bruno@mail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-ferreira-da-silva-9629b6263" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-
-   <p align="left">
-      <a href="https://github.com/brunoF-Silva?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/brunoF-Silva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/brunoF-Silva?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/brunoF-Silva?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
   
 ### Status
 ![brunoF-Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoF-Silva&show_icons=true&theme=tokyonight)[](url)
