@@ -13,10 +13,10 @@ Currently learning web development aiming to be a full-stack developer. As an En
 </div>
 
 ### Status
-<div display="display:inline-block">
+<div>
   <a href="https://https://github.com/brunoF-Silva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoF-Silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoF-Silva&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=brunoF-Silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoF-Silva&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 ---
