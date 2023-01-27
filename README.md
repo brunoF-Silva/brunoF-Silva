@@ -2,7 +2,7 @@
 
 **`Developer in Training`**
 
-Currently learning web development aiming to be a full-stack programmer, coding is an important part of my life since I was 12. My curiosity and also my passion for the english language drove me through a path that I'm for sure in love: Im almolt getting my degree in Computer Science at UFT.
+Currently learning web development aiming to be a full-stack developer. As an english language lover, my decisions drove me through the Tech and I'm almost majoring in Computer Science.
 
 <div> 
   <a href="https://www.youtube.com/channel/UCh4tlLazcVXpLG9l0yhmK9w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
