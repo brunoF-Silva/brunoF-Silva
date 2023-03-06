@@ -2,7 +2,7 @@
 
 **`Developer in Training`**
 
-Currently learning web development aiming to be a full-stack developer. As an English language lover, my decisions led me down the Tech path and I'm almost majoring in Computer Science.
+Apaixonado por inglês e por programação, estou atualmente focado no Desenvolvimento Web, praticando muito JavaScript :)
 
 <div> 
   <a href="https://www.youtube.com/channel/UCh4tlLazcVXpLG9l0yhmK9w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
