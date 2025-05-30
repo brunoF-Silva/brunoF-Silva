@@ -2,7 +2,7 @@
 
 **`Developer in Training`**
 
-Apaixonado por inglês e por programação, estou atualmente focado no Desenvolvimento Web, praticando muito JavaScript :)
+Passionate about English and programming, I'm currently focused on the final project for my degree in Computer Science, so I'm doing a lot of research in AI and data analysis :)
 
 <div> 
   <a href="https://www.youtube.com/channel/UCh4tlLazcVXpLG9l0yhmK9w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
