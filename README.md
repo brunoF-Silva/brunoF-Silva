@@ -23,7 +23,7 @@ Passionate about English and programming, I'm currently focused on the final pro
 ### Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/django.png" />
+<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="[https://img.icons8.com/color/512/django.png](https://www.svgrepo.com/show/353657/django-icon.svg)" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
