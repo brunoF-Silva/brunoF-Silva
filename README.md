@@ -9,7 +9,7 @@ Passionate about English and programming, I'm currently focused on the final pro
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 
-  <a href="https://discord.gg/brfarago" target="_blank">
+  <a href="https://discord.com/users/brfarago" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 
