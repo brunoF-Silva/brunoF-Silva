@@ -1,6 +1,6 @@
-# 🪐 Bruno Silva
+#Bruno Silva
 
-**`Developer in Training`**
+**`Junior Full-Stack Developer`**
 
 Passionate about English and programming, I'm currently focused on the final project for my degree in Computer Science, so I'm doing a lot of research in AI and data analysis :)
 
