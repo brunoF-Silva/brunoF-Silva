@@ -2,7 +2,7 @@
 
 **`Junior Full-Stack Developer`**
 
-I am currently focused on mastering React, Next.js, and NestJS.
+I love Python, TypeScript, React, Next.js, and NestJS.
 
 <div> 
   <a href="https://www.youtube.com/channel/UCh4tlLazcVXpLG9l0yhmK9w" target="_blank">
