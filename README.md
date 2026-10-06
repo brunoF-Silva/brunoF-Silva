@@ -2,7 +2,7 @@
 
 **`Junior Full-Stack Developer`**
 
-I love Python, TypeScript, React, Next.js, and NestJS.
+I love Python, FastAPI, TypeScript, React, Next.js, and NestJS.
 
 <div> 
   <a href="https://www.youtube.com/channel/UCh4tlLazcVXpLG9l0yhmK9w" target="_blank">
