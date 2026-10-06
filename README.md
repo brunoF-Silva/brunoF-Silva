@@ -1,6 +1,6 @@
 # Bruno Silva
 
-**`Junior Full-Stack Developer`**
+**`Junior Full-Stack Developer and Data Analyst`**
 
 I love Python, FastAPI, TypeScript, React, Next.js, and NestJS.
 
